@@ -1,0 +1,20 @@
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\bin\Debug\sinema giriş sistemi.exe.config
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\bin\Debug\sinema giriş sistemi.exe
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\bin\Debug\sinema giriş sistemi.pdb
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema_giriş_sistemi.Form1.resources
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema_giriş_sistemi.Properties.Resources.resources
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.csproj.GenerateResource.cache
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.exe
+C:\Users\90545\Desktop\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.pdb
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\bin\Debug\sinema giriş sistemi.exe.config
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\bin\Debug\sinema giriş sistemi.exe
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\bin\Debug\sinema giriş sistemi.pdb
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.csproj.AssemblyReference.cache
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema_giriş_sistemi.Form1.resources
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema_giriş_sistemi.Properties.Resources.resources
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.csproj.GenerateResource.cache
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.csproj.CoreCompileInputs.cache
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.exe
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\sinema giriş sistemi\sinema giriş sistemi\obj\Debug\sinema giriş sistemi.pdb
